@@ -1,16 +1,9 @@
-# MINE4101
-# Taller 2 - Apoyo a un Supermercado Inteligente
+# MINE4101 | Taller 2 - Apoyo a un Supermercado Inteligente
 
 Repositorio para el Taller 2 - MINE4101
 
 Se adjuntan dos notebooks con el desarrollo del taller ('Modelo Random Forest.ipynb'; 'Modelo CNN.ipynb') y la carpeta con el dataset de Grocery Store.
-De igual forma, se adjunta el informe ejecutivo con los principales insights, obtenidos a través de la evaluación de los modelos.
-
-# SEGMENTACIÓN DE COMPAÑIAS
-
-Este repositorio contiene la primera etapa del análisis y procesamiento de 10.000 registros de compañías de Bogotá.
-
-Se busca explorar y segmentar compañías según distintos factores financieros y de rentabilidad.
+De igual forma, se adjunta el informe ejecutivo con los principales insights, obtenidos a través de la evaluación de los modelos y un notebook con el desarollo del bono ('Bono.ipynb).
 
 ## Estructura del proyecto
 
