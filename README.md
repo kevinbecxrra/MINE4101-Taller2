@@ -1,5 +1,5 @@
 # MINE4101-Taller2
-Repositorio para el Taller 2 - MINE4102
+Repositorio para el Taller 2 - MINE4101
 
 * Kevin Camilo Becerra Walteros - 201812779
 * Laura Andrea Roncancio Pava - 201815149
