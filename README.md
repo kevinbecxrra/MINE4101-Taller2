@@ -13,6 +13,7 @@ Este repositorio contiene la primera etapa del análisis y procesamiento de 10.0
 Se busca explorar y segmentar compañías según distintos factores financieros y de rentabilidad.
 
 ## Estructura del proyecto
+
 . 
 ├── GroceryStoreDataset   
 │   ├── dataset    
