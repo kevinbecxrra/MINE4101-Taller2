@@ -3,7 +3,7 @@
 
 Repositorio para el Taller 2 - MINE4101
 
-Se adjuntan dos notebooks con el desarrollo del taller ('Modelo CNN.ipynb' ; 'Modelo Random Forest.ipynb') y la carpeta con el dataset de Grocery Storec.
+Se adjuntan dos notebooks con el desarrollo del taller ('Modelo Random Forest.ipynb'; 'Modelo CNN.ipynb') y la carpeta con el dataset de Grocery Store.
 De igual forma, se adjunta el informe ejecutivo con los principales insights, obtenidos a través de la evaluación de los modelos.
 
 # SEGMENTACIÓN DE COMPAÑIAS
@@ -35,4 +35,4 @@ Se busca explorar y segmentar compañías según distintos factores financieros 
 
 ## Ejecución
 
-Descargar los notebooks y ejecutar secuencialmente.
+Descargar los notebooks, ejecutar primero el Modelo de Rain Forest y luego el modelo de CNN.
