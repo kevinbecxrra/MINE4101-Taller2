@@ -14,18 +14,18 @@ Se busca explorar y segmentar compañías según distintos factores financieros 
 
 ## Estructura del proyecto
 . 
-├── GroceryStoreDataset
-│ ├── dataset
-│ │ ├── test
-│ │ ├── train
-│ │ ├── val
-│ │ ├── classes.csv
-│ │ ├── test.txt
-│ │ ├── train.txt
-│ │ └── val.txt
-├── Modelo CNN.ipynb
-├── Modelo Random Forest.ipynb
-└── README.md 
+├── GroceryStoreDataset   
+│   ├── dataset    
+│   │   ├── test   
+│   │   ├── train   
+│   │   ├── val    
+│   │   ├── classes.csv   
+│   │   ├── test.txt    
+│   │   ├── train.txt    
+│   │   └── val.txt    
+├── Modelo CNN.ipynb    
+├── Modelo Random Forest.ipynb    
+└── README.md     
 
 ## Participantes
 * Kevin Camilo Becerra Walteros - 201812779
