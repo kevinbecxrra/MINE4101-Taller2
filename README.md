@@ -7,7 +7,7 @@ De igual forma, se adjunta el informe ejecutivo con los principales insights, ob
 
 ## Estructura del proyecto
 
-. 
+.               
 ├── GroceryStoreDataset   
 │   ├── dataset    
 │   │   ├── test   
