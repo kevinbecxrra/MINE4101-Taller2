@@ -35,4 +35,4 @@ Se busca explorar y segmentar compañías según distintos factores financieros 
 
 ## Ejecución
 
-Descargar los notebooks, ejecutar primero el Modelo de Rain Forest y luego el modelo de CNN.
+Descargar los notebooks, ejecutar primero el Modelo de Random Forest y luego el modelo de CNN.
