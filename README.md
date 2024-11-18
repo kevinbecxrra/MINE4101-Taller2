@@ -18,7 +18,9 @@ De igual forma, se adjunta el informe ejecutivo con los principales insights, ob
 │   │   ├── train.txt    
 │   │   └── val.txt    
 ├── Modelo CNN.ipynb    
-├── Modelo Random Forest.ipynb    
+├── Modelo Random Forest.ipynb 
+├── Generación de Valor.pdf 
+├── InformeEjecutivo_Taller02.pdf 
 └── README.md     
 
 ## Participantes
