@@ -16,13 +16,13 @@ Se busca explorar y segmentar compañías según distintos factores financieros 
 .  
 ├── GroceryStoreDataset  
 │   ├── dataset 
-│   |   ├── test  
-│   |   ├── train  
-│   |   ├── val
-│   |   ├── classes.csv
-│   |   ├── test.txt  
-│   |   ├── train.txt   
-│   |   └── val.txt 
+│      ├── test  
+│      ├── train  
+│      ├── val
+│      ├── classes.csv
+│      ├── test.txt  
+│      ├── train.txt   
+│      └── val.txt 
 ├── Modelo CNN.ipynb  
 ├── Modelo Random Forest.ipynb
 ├── README.md  
